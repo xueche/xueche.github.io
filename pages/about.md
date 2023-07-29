@@ -1,14 +1,14 @@
 ---
 layout: page
 title: About
-description: 不必光芒万丈，但始终温暖有光 
-keywords: 
+description: 
+keywords: xueche
 comments: true
 menu: 关于
 permalink: /about/
 ---
 
-linux内核爱好者，热衷钻研底层技术。
+Linux内核爱好者，热衷于钻研底层技术。
 
 ## 联系
 

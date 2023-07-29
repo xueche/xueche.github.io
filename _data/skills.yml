@@ -1,9 +1,8 @@
-- name: Software Engineer Keywords
+- name: 技术栈
   keywords:
       - linux内核
-      - 容器资源隔离
+      - cgroup资源隔离
+      - ebpf内核监测
       - kata安全容器
       - 操作系统
-      - 虚拟化
-      
-
+      - kvm虚拟化

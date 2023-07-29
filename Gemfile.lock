@@ -1,5 +1,5 @@
 GEM
-  remote: https://mirrors.tuna.tsinghua.edu.cn/rubygems/
+  remote: https://rubygems.org/
   specs:
     activesupport (7.0.6)
       concurrent-ruby (~> 1.0, >= 1.0.2)

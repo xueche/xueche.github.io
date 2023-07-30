@@ -7,7 +7,7 @@ date_format: "ordinal"
 title: 丰年留客
 subtitle: "不必光芒万丈，但始终温暖有光"
 description: "薛澈的个人博客"
-keywords: 
+keywords: 丰年留客
 timezone: Asia/Beijing
 encoding: "utf-8"
 # 页面左下角显示的年份
@@ -141,12 +141,12 @@ collections:
 #      Comments    #
 # ---------------- #
 # support provider: disqus, gitment, gitalk, utterances, beaudar, giscus
-comments_provider: giscus
+#comments_provider: giscus
 # !!!重要!!! 请修改下面这些信息为你自己申请的
 # !!!Important!!! Please modify infos below to yours
 # disqus 配置参考：https://disqus.com
-disqus:
-    username: 
+#disqus:
+#    username: 
 # gitment 配置参考：https://imsun.net/posts/gitment-introduction/
 #gitment:
 #    owner: mzlogin
@@ -173,7 +173,7 @@ disqus:
 #    category: Announcements
 #    category-id: DIC_kwDOBY0E7c4CRtg9
 # 在使用其它评论组件时可点击显示 Disqus
-lazy_load_disqus : false
+#lazy_load_disqus : false
 
 # ---------------- #
 #      Search      #

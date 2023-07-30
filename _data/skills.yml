@@ -1,8 +1,19 @@
-- name: 技术栈
+- name: Software Engineer Keywords
   keywords:
-      - linux内核
-      - cgroup资源隔离
-      - ebpf内核监测
-      - kata安全容器
-      - 操作系统
-      - kvm虚拟化
+      - Java
+      - C++
+      - Python
+      - Design Patterns
+
+- name: Mobile Developer Keywords
+  keywords:
+      - Android
+      - Reverse Engineering
+
+- name: Windows Developer Keywords
+  keywords:
+      - Win32 SDK
+      - DuiLib
+      - WTL
+      - COM
+      - WinDbg

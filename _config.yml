@@ -4,14 +4,14 @@
 baseurl:
 url: https://xueche.github.io
 date_format: "ordinal"
-title: 码志
-subtitle: "公众号：闷骚的程序员"
-description: "马壮的个人博客，公众号：闷骚的程序员"
-keywords: 码志, Zhuang Ma, mzlogin, mazhuang, 闷骚的程序员
-timezone: Asia/Shanghai
+title: 丰年留客
+subtitle: "不必光芒万丈,但却始终温暖有光"
+description: 薛澈，linux内核，丰年留客
+keywords: 丰年留客，linux内核，薛澈
+timezone: Asia/Beijing
 encoding: "utf-8"
 # 页面左下角显示的年份
-since: 2015
+since: 2023
 # 源码仓库，请替换成自己的
 repository: xueche/xueche.github.io
 # 对 css 和 js 资源的 cdn 加速配置
@@ -25,7 +25,7 @@ components:
     share:
         enabled: false
         hide-platforms: qq,facebook
-    # 不蒜子访问统计
+    # 不算子访问统计
     busuanzi:
         enabled: false
         start_date: 2020-05-03
@@ -39,7 +39,7 @@ components:
     # 页面右上角，以及「关于」页面的二维码
     # 修改图片请替换 assets/images/qrcode.jpg
     qrcode:
-        enabled: true
+        enabled: false
         image_alt: 闷骚的程序员
     # 维基索引页使用哪种视图，支持 列表（list）/分类（cate）
     wiki:
@@ -60,9 +60,9 @@ highlight_theme: github
 author: Che Xue
 organization: 
 organization_url: 
-github_username: mzlogin
-location: Wuhan, China
-email: chumpma@gmail.com
+github_username: xueche
+location: Beijing, China
+email: 1825626144@qq.com
 
 # ---------------- #
 #    Navigation    #
